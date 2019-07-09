@@ -5,6 +5,8 @@ mflix
 This is a short guide on setting up the system and environment dependencies
 required for the MFlix application to run.
 
+[SPOILER ALERT!] This repository comes with completed course lab. I suggest you
+to take the course first at university.mongodb.com
 
 Project Structure
 -----------------
